@@ -1,1 +1,1 @@
-#To do web app for your To-do lists
+#Todo web app for your To-do lists using Django
